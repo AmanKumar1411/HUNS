@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/HUNS/static/css/main.6f07c765.css",
-    "main.js": "/HUNS/static/js/main.2bc75515.js",
-    "static/js/453.54cb309f.chunk.js": "/HUNS/static/js/453.54cb309f.chunk.js",
-    "static/media/camoflague.jpg": "/HUNS/static/media/camoflague.a87737fb73906524e9fe.jpg",
-    "static/media/trouser-img.jpg": "/HUNS/static/media/trouser-img.154d54ef2e9ae7553fda.jpg",
-    "index.html": "/HUNS/index.html",
-    "main.6f07c765.css.map": "/HUNS/static/css/main.6f07c765.css.map",
-    "main.2bc75515.js.map": "/HUNS/static/js/main.2bc75515.js.map",
-    "453.54cb309f.chunk.js.map": "/HUNS/static/js/453.54cb309f.chunk.js.map"
+    "main.css": "/HUNS/HUNS/static/css/main.6f07c765.css",
+    "main.js": "/HUNS/HUNS/static/js/main.0754f35d.js",
+    "static/js/453.54cb309f.chunk.js": "/HUNS/HUNS/static/js/453.54cb309f.chunk.js",
+    "static/media/camoflague.jpg": "/HUNS/HUNS/static/media/camoflague.a87737fb73906524e9fe.jpg",
+    "static/media/trouser-img.jpg": "/HUNS/HUNS/static/media/trouser-img.154d54ef2e9ae7553fda.jpg",
+    "index.html": "/HUNS/HUNS/index.html",
+    "main.6f07c765.css.map": "/HUNS/HUNS/static/css/main.6f07c765.css.map",
+    "main.0754f35d.js.map": "/HUNS/HUNS/static/js/main.0754f35d.js.map",
+    "453.54cb309f.chunk.js.map": "/HUNS/HUNS/static/js/453.54cb309f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6f07c765.css",
-    "static/js/main.2bc75515.js"
+    "static/js/main.0754f35d.js"
   ]
 }
